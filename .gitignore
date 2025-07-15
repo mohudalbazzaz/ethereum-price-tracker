@@ -1,0 +1,13 @@
+# Ignore logs
+tracker.log
+
+# Ignore CSV data files
+eth_prod.csv
+
+# Ignore environment variables file with secrets
+.env
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+

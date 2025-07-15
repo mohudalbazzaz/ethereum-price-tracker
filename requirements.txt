@@ -1,0 +1,9 @@
+pandas
+requests 
+csv 
+os
+seaborn
+matplotlib
+datetime
+dotenv
+logging
