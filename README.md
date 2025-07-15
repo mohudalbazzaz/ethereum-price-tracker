@@ -4,7 +4,7 @@ A Python script that fetches Ethereum price data from the CoinGecko API, process
 
 ## Features
 
-- Fetches current ETH price, market cap, and 24-hour volume
+- Fetches current ETH price and updates every 10 minutes using Task Scheduler on Windows
 - Saves data to CSV (`eth_prod.csv`)
 - Logs activities and errors to `tracker.log`
 - Uses a `.env` file to securely store API keys
